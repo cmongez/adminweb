@@ -2,7 +2,7 @@ Proyecto final Bootcamp Desarrollador de Aplicaciones Front End
 Single-Page Application (SPA) hecha en Vue que simula una web de cursos, contiene una vista de administrador CRUD.
 Se construyo utilizando HTML, CSS, Bootstrap, Sass, Git, GitHub, JavaScript, Vue, Vue Router y Vuex. 
 
-link: https://cmongez.github.io/adminweb/
+link al demo: https://cmongez.github.io/adminweb/
 
 - Crear una Single-Page Application (SPA) utilizando el framework Vue para gestionar los cursos
 de la empresa.
